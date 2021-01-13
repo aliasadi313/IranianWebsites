@@ -17,7 +17,6 @@
 سرویس های ایمیل (Email) :
 
 * <a href="http://chmail.ir">چاپار</a>
-* <a href="http://mail.iran.ir">میل ایران</a>
 * <a href="http://mihanmail.ir">میهن میل</a>
 * <a href="http://mailfa.com">میل فا</a>
 * <a href="http://vatanmail.ir">وطن میل</a>
@@ -60,6 +59,13 @@
 * <a href="http://backtory.com">بکتوری</a>
 * <a href="https://nivad.io/">نیواد</a>
 * <a href="https://mono.ir/">مونو</a>
+
+سرویس های سکوی ابری (PaaS) :
+
+* <a href="https://www.arvancloud.com/fa/products/paas">ابر آروان</a>
+* <a href="https://www.fandogh.cloud/">فندق</a> 
+* <a href="https://xaas.ir/paas/">زس</a> 
+* <a href="https://sakku.cloud/">سکو</a> 
 
 سرویس های فضای ابری (Cloud Storage) :
 
