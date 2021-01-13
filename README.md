@@ -78,5 +78,8 @@
 * <a href="https://www.cheshmak.me/">چشمک</a> 
 * <a href="https://bef.rest/">بفرست</a> 
 
+سرویس‌های کوتاه کننده‌ی لینک (URL Shortener) :
+
+* <a href="http://shrug.ir/">Shrug.ir</a>
 
 </div>
