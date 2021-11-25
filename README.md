@@ -59,6 +59,7 @@
 * <a href="http://backtory.com">بکتوری</a>
 * <a href="https://nivad.io/">نیواد</a>
 * <a href="https://mono.ir/">مونو</a>
+* <a href="https://chabokan.net/">چابکان</a>
 
 سرویس های سکوی ابری (PaaS) :
 
@@ -66,12 +67,14 @@
 * <a href="https://www.fandogh.cloud/">فندق</a> 
 * <a href="https://xaas.ir/paas/">زس</a> 
 * <a href="https://sakku.cloud/">سکو</a> 
+* <a href="https://chabokan.net/">چابکان</a> 
 
 سرویس های فضای ابری (Cloud Storage) :
 
 * <a href="https://abrino.ir/">ابرینو</a>
 * <a href="https://www.arvancloud.com/fa/products/cloud-storage">ابر آروان</a>
 * <a href="https://www.boxara.ir/">باکسارا</a>
+* <a href="https://chabokan.net/">چابکان</a> 
 
 سرویس های تحلیل داده(Analytics) :
 
