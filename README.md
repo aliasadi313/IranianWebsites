@@ -6,7 +6,6 @@
 
 موتور های جستجو (Search Engine) :
 
-* <a href="http://yooz.ir">یوز</a> 
 * <a href="http://parsijoo.ir">پارسی جو</a> - <a href="http://csi.parsijoo.ir/">API</a>
 * <a href="http://www.jasjoo.com/">جس جو</a>
 * <a href="http://parseek.ir">پارسیک</a>
