@@ -42,7 +42,7 @@
 
 سرویس های شبکه توزیع محتوا (CDN) :
 
-* <a href="http://arvancloud.com">آروان کلود</a>
+* <a href="http://arvancloud.ir">آروان کلود</a>
 * <a href="https://parspack.com/cdn">پارس پک</a>
 * <a href="http://www.afranet.com/fa/services/cdn/">افرانت</a>
 
@@ -51,7 +51,7 @@
 * <a href="http://aparat.com/">آپارات</a> 
 * <a href="https://lahzenegar.com/">لحطه نگار</a> 
 * <a href="https://streamg.tv/">استریمجی</a>
-* <a href="https://www.arvancloud.com/fa/products/live-streaming">ابر آروان</a>
+* <a href="https://www.arvancloud.ir/fa/products/live-streaming">ابر آروان</a>
 
 
 سرویس های خدمات بک‌اند (BaaS) :
@@ -63,7 +63,7 @@
 
 سرویس های سکوی ابری (PaaS) :
 
-* <a href="https://www.arvancloud.com/fa/products/paas">ابر آروان</a>
+* <a href="https://www.arvancloud.ir/fa/products/paas">ابر آروان</a>
 * <a href="https://www.fandogh.cloud/">فندق</a> 
 * <a href="https://xaas.ir/paas/">زس</a> 
 * <a href="https://sakku.cloud/">سکو</a> 
@@ -72,7 +72,7 @@
 سرویس های فضای ابری (Cloud Storage) :
 
 * <a href="https://abrino.ir/">ابرینو</a>
-* <a href="https://www.arvancloud.com/fa/products/cloud-storage">ابر آروان</a>
+* <a href="https://www.arvancloud.ir/fa/products/cloud-storage">ابر آروان</a>
 * <a href="https://www.boxara.ir/">باکسارا</a>
 * <a href="https://chabokan.net/">چابکان</a> 
 
