@@ -6,7 +6,6 @@
 
 موتور های جستجو (Search Engine) :
 
-* <a href="http://parsijoo.ir">پارسی جو</a> - <a href="http://csi.parsijoo.ir/">API</a>
 * <a href="http://www.jasjoo.com/">جس جو</a>
 * <a href="http://parseek.ir">پارسیک</a>
 * <a href="http://www.rismoon.com/">ریسمون</a>
@@ -26,7 +25,6 @@
 
 سرویس های نقشه (Map) :
 
-* <a href="https://map.parsijoo.ir/">نقشه پارسی جو</a> - <a href="http://addmap.parsijoo.ir/addmap/">API</a>
 * <a href="https://map.ir/"> مپ</a> - <a href="http://corp.map.ir/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%86%D9%82%D8%B4%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%86%D9%82%D8%B4%D9%87-%D9%85%D9%BE/">API</a>
 * <a href="https://www.cedarmaps.com/">سیدار </a> - <a href="https://devs.cedarmaps.com/">API</a> 
 * <a href="http://map.tehran.ir/">نقشه تهران </a> - <a href="http://map.tehran.ir/#">API</a> 
@@ -36,12 +34,11 @@
 سرویس های ترجمه (Translator) :
 
 * <a href="http://targoman.ir/">ترگمان</a> - <a href="http://api.targoman.com/">API</a> 
-* <a href="http://translate.parsijoo.ir">پارسی جو</a>
 * <a href="http://faraazin.ir">فرازین</a>
 
 سرویس های شبکه توزیع محتوا (CDN) :
 
-* <a href="http://arvancloud.ir">آروان کلود</a>
+* <a href="http://arvancloud.ir">ابر آروان</a>
 * <a href="https://parspack.com/cdn">پارس پک</a>
 * <a href="http://www.afranet.com/fa/services/cdn/">افرانت</a>
 
@@ -87,6 +84,9 @@
 
 سرویس‌های کوتاه کننده‌ی لینک (URL Shortener) :
 
-* <a href="http://shrug.ir/">Shrug.ir</a>
+* <a href="https://b2n.ir/">B2n.ir</a>
+* <a href="https://cuur.ir/">CutUrl</a>
+* <a href="https://yun.ir/">یون</a>
+* <a href="https://www.gph.ir/">GPH</a>
 
 </div>
