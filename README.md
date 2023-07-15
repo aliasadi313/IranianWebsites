@@ -41,7 +41,7 @@
 
 سرویس های شبکه توزیع محتوا (CDN) :
 
-* <a href="http://arvancloud.ir">آروان کلود</a>
+* <a href="http://arvancloud.ir">ابر آروان</a>
 * <a href="https://parspack.com/cdn">پارس پک</a>
 * <a href="http://www.afranet.com/fa/services/cdn/">افرانت</a>
 
