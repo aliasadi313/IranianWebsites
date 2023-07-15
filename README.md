@@ -63,7 +63,6 @@
 سرویس های سکوی ابری (PaaS) :
 
 * <a href="https://www.arvancloud.ir/fa/products/paas">ابر آروان</a>
-* <a href="https://www.fandogh.cloud/">فندق</a> 
 * <a href="https://xaas.ir/paas/">زس</a> 
 * <a href="https://sakku.cloud/">سکو</a> 
 * <a href="https://chabokan.net/">چابکان</a> 
