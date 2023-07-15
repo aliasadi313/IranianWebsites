@@ -87,6 +87,9 @@
 
 سرویس‌های کوتاه کننده‌ی لینک (URL Shortener) :
 
-* <a href="http://shrug.ir/">Shrug.ir</a>
+* <a href="https://b2n.ir/">B2n.ir</a>
+* <a href="https://cuur.ir/">CutUrl</a>
+* <a href="https://yun.ir/">یون</a>
+* <a href="https://www.gph.ir/">GPH</a>
 
 </div>
