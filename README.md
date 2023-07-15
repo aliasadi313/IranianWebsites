@@ -13,7 +13,8 @@
 
 
 سرویس های ایمیل (Email) :
-
+* <a href="http://mail.ir">میل</a>
+* <a href="http://mail.iran.ir">میل ایران</a>
 * <a href="http://chmail.ir">چاپار</a>
 * <a href="http://mihanmail.ir">میهن میل</a>
 * <a href="http://mailfa.com">میل فا</a>
