@@ -55,7 +55,6 @@
 
 * <a href="http://backtory.com">بکتوری</a>
 * <a href="https://nivad.io/">نیواد</a>
-* <a href="https://mono.ir/">مونو</a>
 * <a href="https://chabokan.net/">چابکان</a>
 
 سرویس های سکوی ابری (PaaS) :
@@ -67,21 +66,18 @@
 
 سرویس های فضای ابری (Cloud Storage) :
 
-* <a href="https://abrino.ir/">ابرینو</a>
 * <a href="https://www.arvancloud.ir/fa/products/cloud-storage">ابر آروان</a>
-* <a href="https://www.boxara.ir/">باکسارا</a>
 * <a href="https://chabokan.net/">چابکان</a> 
 
 سرویس های تحلیل داده(Analytics) :
 
-* <a href="https://databeen.ir/">دیتابین</a>  - <a href="https://databeen.ir/documents">API</a> 
+
 
 سرویس های ارسال نوتیفیکیشن(Push Notification) :
 
 * <a href="https://pushe.co/">پوشه</a>
 * <a href="https://www.najva.com/">نجوا</a> 
 * <a href="https://www.cheshmak.me/">چشمک</a> 
-* <a href="https://bef.rest/">بفرست</a> 
 
 سرویس‌های کوتاه کننده‌ی لینک (URL Shortener) :
 
