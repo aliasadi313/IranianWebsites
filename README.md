@@ -62,12 +62,14 @@
 * <a href="https://www.arvancloud.ir/fa/products/paas">ابر آروان</a>
 * <a href="https://xaas.ir/paas/">زس</a> 
 * <a href="https://sakku.cloud/">سکو</a> 
-* <a href="https://chabokan.net/">چابکان</a> 
+* <a href="https://chabokan.net/">چابکان</a>
+* <a href="https://liara.ir/">لیارا</a>
 
 سرویس های فضای ابری (Cloud Storage) :
 
 * <a href="https://www.arvancloud.ir/fa/products/cloud-storage">ابر آروان</a>
-* <a href="https://chabokan.net/">چابکان</a> 
+* <a href="https://chabokan.net/">چابکان</a>
+* <a href="https://liara.ir/">لیارا</a>
 
 سرویس های تحلیل داده(Analytics) :
 
