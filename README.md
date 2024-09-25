@@ -1,10 +1,11 @@
 ﻿<div dir="rtl">
 
-# معرفی سرویس های بومی ایرانی جایگزین سرویس های خارجی
+# خدمت‌های ایرانی برای جایگزینی با نمونه‌های خارجی
 
-<strong> سرویس های دارای وب سرویس (api) ذکر شده اند. </strong>
+<strong> خدمت های دارای وب خدمت (api) ذکر شده اند. </strong>
 
-موتور های جستجو (Search Engine) :
+**موتور جستجو (Search Engine)**
+
 
 * <a href="http://www.jasjoo.com/">جس جو</a>
 * <a href="http://parseek.ir">پارسیک</a>
@@ -12,7 +13,9 @@
 
 
 
-سرویس های ایمیل (Email) :
+
+**ایمیل (Email)**
+
 * <a href="http://mail.ir">میل</a>
 * <a href="http://mail.iran.ir">میل ایران</a>
 * <a href="http://chmail.ir">چاپار</a>
@@ -20,11 +23,11 @@
 * <a href="http://mailfa.com">میل فا</a>
 * <a href="http://vatanmail.ir">وطن میل</a>
 
-سرویس های ایمیل موقت (Temporary Email) :
+**ایمیل موقت (Temporary Email)** 
 * <a href="http://emeil.ir">Emeil</a>
 
 
-سرویس های نقشه (Map) :
+**نقشه (Map)** 
 
 * <a href="https://map.ir/"> مپ</a> - <a href="http://corp.map.ir/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%86%D9%82%D8%B4%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%86%D9%82%D8%B4%D9%87-%D9%85%D9%BE/">API</a>
 * <a href="https://www.cedarmaps.com/">سیدار </a> - <a href="https://devs.cedarmaps.com/">API</a> 
@@ -32,18 +35,18 @@
 * <a href="https://neshan.org/">نشان  </a> - <a href="http://developer.neshan.org">API</a> 
 * <a href="http://balad.ir">بَلَد</a> 
 
-سرویس های ترجمه (Translator) :
+ **ترجمه (Translator)**
 
 * <a href="http://targoman.ir/">ترگمان</a> - <a href="http://api.targoman.com/">API</a> 
 * <a href="http://faraazin.ir">فرازین</a>
 
-سرویس های شبکه توزیع محتوا (CDN) :
+ **شبکه توزیع محتوا (CDN)**
 
 * <a href="http://arvancloud.ir">ابر آروان</a>
 * <a href="https://parspack.com/cdn">پارس پک</a>
 * <a href="http://www.afranet.com/fa/services/cdn/">افرانت</a>
 
-سرویس های پخش زنده (Live Streaming) :
+ **پخش زنده (Live Streaming)**
 
 * <a href="http://aparat.com/">آپارات</a> 
 * <a href="https://lahzenegar.com/">لحطه نگار</a> 
@@ -51,37 +54,39 @@
 * <a href="https://www.arvancloud.ir/fa/products/live-streaming">ابر آروان</a>
 
 
-سرویس های خدمات بک‌اند (BaaS) :
+ **خدمات بک‌اند (BaaS)**
 
 * <a href="http://backtory.com">بکتوری</a>
 * <a href="https://nivad.io/">نیواد</a>
 * <a href="https://chabokan.net/">چابکان</a>
 
-سرویس های سکوی ابری (PaaS) :
+ **سکوی ابری (PaaS)**
 
 * <a href="https://www.arvancloud.ir/fa/products/paas">ابر آروان</a>
 * <a href="https://xaas.ir/paas/">زس</a> 
 * <a href="https://sakku.cloud/">سکو</a> 
 * <a href="https://chabokan.net/">چابکان</a>
 * <a href="https://liara.ir/">لیارا</a>
+* <a href="https://hamravesh.com">هم‌روش</a>
 
-سرویس های فضای ابری (Cloud Storage) :
+
+ **فضای ابری (Cloud Storage)**
 
 * <a href="https://www.arvancloud.ir/fa/products/cloud-storage">ابر آروان</a>
 * <a href="https://chabokan.net/">چابکان</a>
 * <a href="https://liara.ir/">لیارا</a>
 
-سرویس های تحلیل داده(Analytics) :
+ **تحلیل داده(Analytics)**
 
 
 
-سرویس های ارسال نوتیفیکیشن(Push Notification) :
+ **ارسال نوتیفیکیشن(Push Notification)**
 
 * <a href="https://pushe.co/">پوشه</a>
 * <a href="https://www.najva.com/">نجوا</a> 
 * <a href="https://www.cheshmak.me/">چشمک</a> 
 
-سرویس‌های کوتاه کننده‌ی لینک (URL Shortener) :
+**کوتاه کنندهٔ پیوند (URL Shortener)**
 
 * <a href="https://b2n.ir/">B2n.ir</a>
 * <a href="https://cuur.ir/">CutUrl</a>
