@@ -44,7 +44,9 @@
 
 * <a href="http://arvancloud.ir">ابر آروان</a>
 * <a href="https://parspack.com/cdn">پارس پک</a>
-* <a href="http://www.afranet.com/fa/services/cdn/">افرانت</a>
+* <a href="https://abalon.cloud/cdn/">آبالون</a>
+* <a href="https://asiatech.cloud/service/%D8%B4%D8%A8%DA%A9%D9%87-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D9%85%D8%AD%D8%AA%D9%88%D8%A7-cdn">آسیاتک</a>
+* <a href="https://www.iranserver.com/cdn/">ایران‌سرور</a>
 
  **پخش زنده (Live Streaming)**
 
