@@ -1,17 +1,16 @@
 ﻿<div dir="rtl">
 
-# سرویس‌های ایرانی جایگزین خارجی
+# خدمت‌های ایرانی برای جایگزینی با نمونه‌های خارجی
 
-<strong> سرویس های دارای وب سرویس (api) ذکر شده اند. </strong>
+<strong> خدمت های دارای وب خدمت (api) ذکر شده اند. </strong>
 
 **موتور جستجو (Search Engine)**
 
-
-* <a href="http://www.jasjoo.com/">جس جو</a>
-* <a href="http://parseek.ir">پارسیک</a>
-* <a href="http://www.rismoon.com/">ریسمون</a>
-
-
+* <a href="https://zarebin.ir/">ذره‌بین</a>
+* <a href="https://shaadbin.ir/">شاد ‌بین (جستجوگر مناسب کودک) </a>
+* <a href="https://www.jasjoo.com/">جس جو</a>
+* <a href="https://parseek.ir">پارسیک</a>
+* <a href="https://www.rismoon.com/">ریسمون</a>
 
 
 **ایمیل (Email)**
@@ -67,6 +66,8 @@
 * <a href="https://sakku.cloud/">سکو</a> 
 * <a href="https://chabokan.net/">چابکان</a>
 * <a href="https://liara.ir/">لیارا</a>
+* <a href="https://hamravesh.com">هم‌روش</a>
+
 
  **فضای ابری (Cloud Storage)**
 
@@ -84,7 +85,7 @@
 * <a href="https://www.najva.com/">نجوا</a> 
 * <a href="https://www.cheshmak.me/">چشمک</a> 
 
-**کوتاه کنندهٔ لینک (URL Shortener)**
+**کوتاه کنندهٔ پیوند (URL Shortener)**
 
 * <a href="https://b2n.ir/">B2n.ir</a>
 * <a href="https://cuur.ir/">CutUrl</a>
