@@ -11,6 +11,7 @@
 * <a href="https://www.jasjoo.com/">جس جو</a>
 * <a href="https://parseek.ir">پارسیک</a>
 * <a href="https://www.rismoon.com/">ریسمون</a>
+* <a href="https://search.bertina.ir/">برتینا</a>
 
 
 **ایمیل (Email)**
