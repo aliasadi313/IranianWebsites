@@ -70,6 +70,7 @@
 * <a href="https://chabokan.net/">چابکان</a>
 * <a href="https://liara.ir/">لیارا</a>
 * <a href="https://hamravesh.com">هم‌روش</a>
+* <a href="https://paasta.cloud/">پاستاکلود</a>
 
 
  **فضای ابری (Cloud Storage)**
